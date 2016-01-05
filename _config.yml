@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://micmmakarov.github.io
+title: Michael's blog
+paginate: 5
