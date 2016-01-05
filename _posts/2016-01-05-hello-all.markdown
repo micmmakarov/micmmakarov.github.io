@@ -1,0 +1,6 @@
+---
+published: true
+title: Hello all
+layout: post
+---
+Hello!
